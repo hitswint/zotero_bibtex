@@ -1,0 +1,3 @@
+* References:
+  * https://github.com/nschloe/betterbib
+  * https://github.com/papis/papis-zotero
